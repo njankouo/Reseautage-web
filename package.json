@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-and-expressjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.2.1",
+    "express-validator": "^7.3.2",
+    "gravatar": "^1.8.2",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.3.3",
+    "nodemon": "^3.1.11",
+    "request": "^2.88.2"
+  }
+}
