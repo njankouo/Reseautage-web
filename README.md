@@ -147,5 +147,3 @@ Baltimore B
 Ce projet est distribué sous licence MIT.
 
 ---
-
-Si tu veux, je peux maintenant te faire une version **très haut niveau (style projet startup ou portfolio GitHub premium)** avec badges, stats GitHub et structure impressionnante.
